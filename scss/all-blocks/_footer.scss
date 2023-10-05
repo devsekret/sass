@@ -1,0 +1,45 @@
+.footer {
+    width: 100%;
+    background: #2C343E;
+    margin-top: 168px;
+}
+
+.foot__info {
+    width: 1440px;
+    padding: 47px 80px;
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+}
+
+.link {
+    padding-left: 103px;
+    margin-right: 33px;
+}
+
+.foot__link {
+    color: #83888F;
+    font-family: "Barlow";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0.923px;
+    text-transform: uppercase;
+    padding-left: 33px;
+}
+
+.foot__list {
+    display: flex;
+    padding-left: 369px;
+    margin-right: 33px;
+}
+
+.foot__item {
+    padding-left: 33px;
+}
+
+path:hover {
+    fill: #FDD6BA;
+    cursor: auto;
+}
